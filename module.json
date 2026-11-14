@@ -2,7 +2,7 @@
   "name": "module-crm-automation-pack-filament",
   "display_name": "CRM Automation Pack Filament",
   "description": "Filament presentation for CRM Automation Pack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\CRM\\AutomationPackFilament\\AutomationPackFilamentServiceProvider",
   "requires": {
